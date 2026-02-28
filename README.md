@@ -99,6 +99,17 @@ outcomes. The base case as currently constructed represents a very optimistic
 trajectory; intermediate and weaker cases would likely reflect more probable near-term 
 paths considering Micron is currently experiencing an upcycle.
 
+**Tax Rate Review.** a 12% flat line tax rate was applied to the original model. That
+will be reviewed more comprehensively upon a revisit.
+
+**Assumptions.** Best case and weak case variables were based off of volatility expectations
+from the mid-cycle. However, considering Micron is currently in an upcycle, it would likely 
+be better to decrease the expectations for both the best and weak case from where they 
+currently stand. This will be reviewed more comprehenisvely upon a revisit. 
+
+Bit growth and ASP selling price change assumptions are based off management guidance. This
+also will be reviewed more comprehensively upon a revisit. 
+
 ---
 
 ## Data Sources
