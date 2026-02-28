@@ -30,7 +30,7 @@ assumptions against the base case.
 
 Three forecast scenarios build revenue using a bottom-up approach, splitting
 DRAM and NAND separately rather than applying a single top-line growth rate. 
-Memory is sold by bit and so (1 + bit growth rate) * (1 + chang e in ASP) = 
+Memory is sold by bit and so (1 + bit growth rate) * (1 + change in ASP) = 
 revenue growth rate.
 
 Bit growth rates and average selling price (ASP) trends for each segment are 
@@ -99,13 +99,13 @@ outcomes. The base case as currently constructed represents a very optimistic
 trajectory; intermediate and weaker cases would likely reflect more probable near-term 
 paths considering Micron is currently experiencing an upcycle.
 
-**Tax Rate Review.** a 12% flat line tax rate was applied to the original model. That
-will be reviewed more comprehensively upon a revisit.
+**Tax Rate Review.** a 12% flat tax rate was applied to the original model for all forecasted
+years. That will be reviewed more comprehensively upon a revisit.
 
 **Assumptions.** Best case and weak case variables were based off of volatility expectations
 from the mid-cycle. However, considering Micron is currently in an upcycle, it would likely 
 be better to decrease the expectations for both the best and weak case from where they 
-currently stand. This will be reviewed more comprehenisvely upon a revisit. 
+currently stand. This will be reviewed more comprehensively upon a revisit. 
 
 Bit growth and ASP selling price change assumptions are based off management guidance. This
 also will be reviewed more comprehensively upon a revisit. 
