@@ -82,7 +82,7 @@ case net income of $19,619M sits at approximately 51.6% GP and 43% revenue
 growth, confirming both tables are correctly calibrated against the live model
 output.
 
-<img width="895" height="380" alt="Sensitivity Analysis Screenshot" src="https://github.com/user-attachments/assets/66ce2491-ead3-401b-9a08-aae2f9f3d9ef" />
+<img width="899" height="373" alt="image" src="https://github.com/user-attachments/assets/16b3048b-2722-40a7-b75b-9d9b2e13485e" />
 
 ---
 
