@@ -5,6 +5,9 @@ five-year forecast. The model features a bottom-up scenario analysis based on
 DRAM and NAND sales, four scenario cases, two sensitivity tables, and a
 P/E-based implied valuation.
 
+This is the first draft of the project. While mechanically sound, some assumptions
+should be adjusted in future updates. More on this in "Potential Improvements."
+
 ---
 
 ## Model Overview
