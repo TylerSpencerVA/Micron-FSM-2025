@@ -58,8 +58,6 @@ Historical context:
 | FY2023 trough | -9.1% |
 | 10-year average | 33.07% |
 
-<img width="1005" height="684" alt="Scenario Analysis Screenshot" src="https://github.com/user-attachments/assets/d91eace7-faaf-451b-9938-a5c1f73d903a" />
-
 ### Interest & Debt Schedule
 
 Forecasted long-term debt of $14,017M is held flat as a hardcoded assumption informed 
