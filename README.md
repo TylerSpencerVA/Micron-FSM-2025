@@ -23,7 +23,7 @@ NAND revenues following a 2026 upcycle peak, with declining revenue growth and g
 margins thereafter. Three alternative scenarios independently stress-test revenue
 and margin assumptions against the base case.
 
-<img width="955" height="680" alt="Income Statement Screenshot" src="https://github.com/user-attachments/assets/a1afc07b-4ee0-482b-ae2c-59e4611ea629" />
+<img width="937" height="686" alt="Income Statement Screenshot" src="https://github.com/user-attachments/assets/6bcebec0-c658-422a-bc5c-6411f55364be" />
 
 ---
 
@@ -40,7 +40,7 @@ Bit growth rates are anchored to guidance from Micron's Q4 FY2025 earnings call.
 ASP assumptions are informed by historical patterns disclosed in Micron's FY2025 
 10-K MD&A.
 
-<img width="632" height="509" alt="Revenue Build" src="https://github.com/user-attachments/assets/5a510d0b-277f-4804-b1dd-c14690096a0a" />
+<img width="810" height="540" alt="Revenue Build" src="https://github.com/user-attachments/assets/7e3bed03-f0a2-4fb2-952a-c8b330e5ef32" />
 
 ### Gross Margin Assumptions
 
@@ -58,23 +58,25 @@ Historical context:
 | FY2023 trough | -9.1% |
 | 10-year average | 33.07% |
 
+<img width="1005" height="684" alt="Scenario Analysis Screenshot" src="https://github.com/user-attachments/assets/d91eace7-faaf-451b-9938-a5c1f73d903a" />
+
 ### Interest & Debt Schedule
 
-Long-term debt of $14,017M is held flat per the disclosed maturity schedule
-(10-K Note 12) at a weighted average rate of 5.25%. Gross interest expense of
-$736M less capitalized interest of $321M yields net interest expense of $415M.
-The revolver is modeled as a plug capped at $600M. Interest income is calculated
-on average cash balances at 4.0%. All three interest lines handle circularity via
-a break switch (Row 7).
+Forecasted long-term debt of $14,017M is held flat as a hardcoded assumption informed 
+by the 10-K (Note 12) at a weighted average rate of 5.25%. Gross LTD interest expense 
+of ~$736M less hardcoded capitalized interest of $321M yields net LTD interest expense 
+of ~$415M. The revolver is modeled as a plug with a hardcoded discretionary draw of $50M 
+each period. Interest income is calculated at 4.0% — on average cash balances in the forecast 
+years. All three interest lines handle circularity via a break switch (Row 7).
 
 ### EPS & Valuation
 
 Diluted share counts for historical periods are sourced directly from 10-K Note
 26 (FY2023: 1,093M, FY2024: 1,118M, FY2025: 1,125M). The FY2023 loss year
-correctly applies the anti-dilution rule (diluted = basic). Forecast diluted
-shares reflect SBC issuance net of repurchases, priced at the trailing implied
+correctly applies the anti-dilution rule (diluted = basic). Forecasted diluted
+shares reflect SBC issuance net of repurchases, priced at the current-period implied
 share price. A target P/E of 22x in FY2026 compressing to 20x from FY2027
-generates an implied share price range of $375–$450 across the forecast period.
+generates an implied share price range of $261–$374 across the forecast period.
 
 ---
 
@@ -86,7 +88,7 @@ case net income of $19,619M sits at approximately 51.6% GP and 43% revenue
 growth, confirming both tables are correctly calibrated against the live model
 output.
 
-<img width="899" height="373" alt="image" src="https://github.com/user-attachments/assets/16b3048b-2722-40a7-b75b-9d9b2e13485e" />
+<img width="836" height="380" alt="Sensitivity Analysis Screenshot" src="https://github.com/user-attachments/assets/00ecf3ac-19d5-4b22-900c-b2b3f6f27064" />
 
 ---
 
