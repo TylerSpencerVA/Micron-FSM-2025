@@ -6,7 +6,7 @@ DRAM and NAND sales, four scenario cases, two sensitivity tables, and a
 P/E-based implied share price.
 
 You can find the full downloadable model by clicking on "raw data" at this link:
-https://github.com/TylerSpencerVA/Micron-FSM-2025/blob/main/Micron%20FSM%20FINAL.xlsx
+https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2025/blob/main/Micron%20Three%20Statement%20Model%20FINAL.xlsx
 
 ---
 
