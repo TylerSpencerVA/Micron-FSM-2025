@@ -133,6 +133,10 @@ outcomes. The base case as currently constructed represents an optimistic
 trajectory towards the end of the five year forecast; intermediate and weaker 
 cases could reflect more probable long-term paths.
 
+**Implied Share Price.** The trailing P/E ratios set in the model were set higher than the recent historical
+P/E ratios. This increase was based on analyst expectations and should be revisited in future iterations of 
+this model. 
+
 ---
 
 ## Data Sources
